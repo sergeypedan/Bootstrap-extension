@@ -1,0 +1,22 @@
+@import 'variables.scss';
+
+a > img { border: none; }
+
+a {
+	border-bottom: solid 1px lighten( $color-link, 20% );
+
+	&:hover {
+		text-decoration: none;
+		color: $color-link-hover;
+		border-bottom-color: $color-link-hover;
+	}
+}
+
+.AJAXlink {
+	border-bottom: dotted;
+}
+
+.navbar a,
+.navbar a:hover {
+	border-bottom: 0;
+}

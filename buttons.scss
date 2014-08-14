@@ -1,0 +1,26 @@
+@import 'variables.scss';
+
+.btn-sm,
+.btn-group-sm > .btn {
+	letter-spacing: 0.05em;
+}
+
+.btn-lg,
+.btn-group-lg > .btn {
+	border-radius: 4px;
+	font-size: 17px;
+	padding: 11px 19px;
+	-webkit-font-smoothing: antialiased;
+}
+
+.btn-xxl {
+	font-size: 18px;
+	padding: 13px 21px;
+	-webkit-font-smoothing: antialiased;
+	letter-spacing: 0.02em;
+}
+
+
+.btn-pillow {
+	border-radius: 20px !important;
+}

@@ -1,0 +1,19 @@
+.bg-pattern { background-repeat: repeat; }
+
+.bg-photo {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg-fixed { background-attachment: fixed; }
+
+.darken { background-color: rgba(46, 36, 51, 0.8); }
+.darken-blending { background-blend-mode: soft-light; }
+
+.bg-white { background-color: white; }
+.bg-paper {
+	background-color: $bg-paper;
+	background-image: radial-gradient(ellipse at center top, hsl(60, 20%, 98%) 0%, hsl(60, 20%, 97%) 100%)
+}
+.bg-black { background-color: #0C1F2E; -webkit-font-smoothing: antialiased; }

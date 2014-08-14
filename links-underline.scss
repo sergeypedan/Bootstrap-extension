@@ -1,0 +1,15 @@
+@import 'variables.scss';
+
+a {
+	color: $color-link;
+	// text-decoration: underline;
+}
+
+.AJAXlink {
+	text-decoration: none;
+	border-bottom: dotted 1px $color-link;
+
+	&:hover {
+		text-decoration: none;
+	}
+}

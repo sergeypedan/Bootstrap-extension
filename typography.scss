@@ -1,0 +1,143 @@
+@import 'variables.scss';
+
+p {
+	margin-bottom: 1em;
+	max-width: 53em;
+}
+	.text-center p {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.lead {
+		max-width: 42em;
+	}
+
+h3, .h3 {
+	font-size: 20px;
+	max-width: 40em;
+	
+	.text-center & {
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+h4 {
+	font-size: 17px;
+	line-height: 1.25em;
+	margin-top: 1.5em;
+}
+
+h5 {
+	line-height: 1.4;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+
+
+ul {
+	padding-left: 1.1em;
+}
+ol {
+	padding-left: 1.4em;
+}
+
+.list-multiline li {
+	margin-bottom: 10px;
+}
+
+.list-midbullet {
+	padding-left: 5px;
+
+	li {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	li:not(:last-child):after {
+		content: " •";
+		color: $color-muted;
+	}
+}
+
+small, .small { line-height: 1.55em; }
+
+
+.thinCaps {
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 0.7em;
+	letter-spacing: 0.15em;
+}
+
+.allcaps {
+	text-transform: uppercase;
+	letter-spacing: 0.25em;
+}
+
+small.allcaps,
+.small.allcaps { font-size: 0.7em }
+
+.rouble {
+	color: $color-muted;
+}
+
+
+
+
+
+// .invert {
+// 	color: rgba(255, 255, 255, 0.8);;
+
+// 	b, .lead { color: white; }
+
+// 	a { color: $color-link-invert; }
+// 	a:hover { color: lighten( $color-link-invert, 5% ); }
+
+// 	h1, h2, h3, h4, h5,
+// 	.h1, .h2, .h3, .h4, .h5 { color: white !important; }
+// 	h4, h5, .h4, .h5 { -webkit-font-smoothing: auto; }
+	
+// 	input,
+// 	textarea { color: $color-text; }
+
+// 	fieldset { background: rgba(255,255,255,0.06); }
+
+// 	hr { border-top-color: rgba(128, 128, 128, 0.26); }
+
+// 	.rule-above,
+// 	.rule-below { border-color: rgba(255,255,255,0.2); }
+
+// }
+
+.text-black { color: $color-text-dark; }
+
+.text-thin { font-weight: 100 !important; }
+
+
+.rule-above {
+	border-top: solid 1px $color-hr;
+	padding-top: 1em;
+	margin-top: 1.3em;
+}
+
+.rule-below {
+	border-bottom: solid 1px $color-hr;
+	padding-bottom: 0.6em;
+	margin-bottom: 1em;
+}
+
+	// h2.rule-below {  }
+
+
+
+
+.hr-white {
+	border-top-color: white;
+	border-bottom-color: white;
+}
+
+
+

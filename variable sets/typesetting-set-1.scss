@@ -1,0 +1,56 @@
+
+// site colors
+$color-text: #3D3F46;
+$color-headers: hsl(0, 0%, 20%);
+
+$color-text-dark: #333333;
+$color-muted: lighten( $color-text, 40% );
+$color-muted-light: lighten( $color-muted, 20% );
+
+$color-link: rgb(50, 100, 145);
+$color-link-hover: $color-link;
+$color-link-invert: hsl(200, 70%, 71%);
+
+$color-invert: rgba(255, 255, 255, 0.8);
+
+
+// style colors
+$color-brand: hsl(77, 50%, 41%);
+$color-alt: hsl(190, 50%, 50%);
+$color-red: red;
+
+
+// backgrounds
+$bg-site: white;
+$bg-alt-light: rgb(252, 250, 248);
+$bg-alt-dark: hsl(231, 22%, 17%);
+
+
+// fonts
+$font-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-headers: 'Open Sans', sans-serif;
+$font-alt: 'Lora', serif;
+
+
+// text size
+$line-height: 1.6em;
+$text-body: 14px;
+
+$text-small: 14px;
+$text-supersmall: 14px;
+
+$text-lead: 14px;
+$text-lead-small: 14px;
+
+$text-h1: 4.5em;
+$text-h2: 24px;
+$text-h3: 21px;
+$text-h4: 16px;
+$text-h5: 14px;
+$text-h6: 14px;
+
+
+// paddings
+$paddgin-header-top: 2em;
+$paddgin-header-bottom: 0.5em;
+

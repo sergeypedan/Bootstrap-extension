@@ -1,0 +1,96 @@
+@mixin navbar-light($bg-color) {
+
+	background-color: $bg-color;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.075);
+	border-top: none;
+	border-width: 0;
+	border-bottom: solid 1px #E7E7E7;
+
+	a { color: lighten( $color-text, 25% ); }
+	
+	.nav > li > a,
+	.navbar-brand {
+		&:hover,
+		&:focus,
+		.navbar-brand {
+			color: $color-text;
+			background-color: $bg-color;
+		}
+	}
+
+		.active {
+			& > a,
+			& > a:hover,
+			& > a:focus {
+				color: $color-text;
+				background-color: darken($bg-color , 1%);
+				box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.07);
+			}
+		}
+
+}
+
+
+@mixin navbar-dark($bg-color, $color-hover: $color-link-invert) {
+
+	background-color: $bg-color;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.075);
+	border-top: none;
+	border-width: 0;
+	// border-bottom: solid 1px #E7E7E7;
+
+	a { color: white; }
+	
+	.nav > li > a,
+	.navbar-brand {
+		&:hover,
+		&:focus {
+			color: $color-hover;
+			background-color: darken($bg-color , 2%);
+		}
+	}
+
+		.active {
+			& > a,
+			& > a:hover,
+			& > a:focus {
+				color: transparentize($color-hover, 0.1);
+				background-color: darken($bg-color , 2%);
+				box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.3);
+			}
+		}
+
+}
+
+
+@mixin navbar-gradient($bg-gradient, $color-hover: $color-link-invert) {
+
+	background-image: $bg-gradient;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.075);
+	border-top: none;
+	border-width: 0;
+	// border-bottom: solid 1px #E7E7E7;
+
+	a { color: white; }
+	
+	.nav > li > a,
+	.navbar-brand {
+		&:hover,
+		&:focus {
+			color: $color-hover;
+			background-color: hsla(0, 0%, 0%, 0.07);
+		}
+	}
+
+		.active {
+			& > a { background-color: hsla(0, 0%, 0%, 0.07); }
+
+			& > a,
+			& > a:hover,
+			& > a:focus {
+				color: transparentize($color-hover, 0.1);
+				box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.2);
+			}
+		}
+
+}

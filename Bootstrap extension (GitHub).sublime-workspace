@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"img-",
+				"img-to-circle"
+			],
+			[
+				"bgi",
+				"bgi-n	background-image: none;"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"form",
+				"form_id"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"te",
+				"TEXTAREA"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ul",
+				"X-UA-Compatible"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"tb",
+				"table	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"Cons",
+				"ConstructMessage"
+			],
+			[
+				"name",
+				"user_name"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fomr",
+				"form_end"
+			],
+			[
+				"y",
+				"yandex_code"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"background",
+				"background-origin"
+			],
+			[
+				"bacg",
+				"background-position"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"border",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"snippt",
+				"Snippet: html"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"snippet htm",
+				"Snippet: html"
+			],
+			[
+				"snippet ht",
+				"Snippet: html"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"WRA",
+				"Word Wrap: Toggle"
+			],
+			[
+				"unfod",
+				"Code Folding: Unfold All"
+			],
+			[
+				"colla",
+				"Code Folding: Unfold All"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Sergey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Sergey/Desktop/bootstrap-extension-collector.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/bootstrap extension localbrew.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/buttons.scss",
+		"/Users/Sergey/GitHub/Integral design/index.html",
+		"/Users/Sergey/GitHub/Integral design/SASS/block styles.scss",
+		"/Users/Sergey/Desktop/data-offset.md",
+		"/Users/Sergey/GitHub/Integral design/bower_components/smooth-scroll.js/README.md",
+		"/Users/Sergey/GitHub/Integral design/SASS/variables.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/compiler.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/typography.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/styles.scss",
+		"/Users/Sergey/GitHub/Integral design/SASS/grid.scss",
+		"/Users/Sergey/GitHub/Integral design/CSS/compiled.map",
+		"/Users/Sergey/GitHub/Integral design/CSS/compiled.css.map",
+		"/Users/Sergey/GitHub/Integral design/CSS/compiled.css",
+		"/Users/Sergey/GitHub/Integral design/fonts/icomoon/style.css",
+		"/Users/Sergey/GitHub/Integral design/bower_components/Font-Awesome/.gitignore",
+		"/Users/Sergey/GitHub/Integral design/fonts/icomoon/selection.json",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/index.html",
+		"/Users/Sergey/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Snippets/URLs.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Образцовый старт сайта/index.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Snippets/colos.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Snippets/typesetting-master.scss",
+		"/Users/Sergey/Google Drive/Programming/SASS/SASS commands.css",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/buttons.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/webfonts.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/typography.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/compiler.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/CodeKit framework/navbar-prototype.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/typography.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/typography.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/Gruntfile.js",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/block styling.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/buttons-skins.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/Изменения для прилипающего меню.txt",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/package.json",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/styles.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/index.html",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/fonts/icomoon/demo.html",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/compiler.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/icomoon.scss",
+		"/Users/Sergey/Google Drive/Programming/InDesign/FindChangeList.txt",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/variables.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/CSS/theme-yvesrocher.css",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/grids.scss",
+		"/Users/Sergey/Desktop/google-docs.svg",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/gradients.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/CodeKit framework/buttons-generator.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/theme-yvesrocher/compiler.scss",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/CSS/theme-yvesrocher.css.map",
+		"/Users/Sergey/Google Drive/Projects/Олег Зябликов/Вёрстка/6/index.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/section panels native.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/panel.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/section panels.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/block styling.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/block styling.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/compiler.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/blocks styling.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/variables.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/compiler.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/gradients.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/panel old.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/patterns.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/panel section.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/section.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/common-GUI.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/features 1 row.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/menu natives.html",
+		"/Users/Sergey/Google Drive/Projects/Олег Зябликов/Вёрстка/6/css/style.css",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Посадка с неподдерживаемого устройства/1/index.html",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Посадка с неподдерживаемого устройства/1/responsive.css",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Посадка с неподдерживаемого устройства/2/index.html",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/backup/header web.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Snippets/bootstrap extension URL.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/backup/header local.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/article-hub.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/article.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/banners.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/buttons.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/faq.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/features multirow.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/features shuffle.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/footers.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/grid 5 columns.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/logos.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/menu div.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/news.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/products horizontal open.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/testimonials.html",
+		"/Users/Sergey/GitHub repositories/Bootstrap site snippets/untitled.html",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/backup/header.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Snippets/media queries.scss",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/1/CSS/responsive.css",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/grids.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/styles.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/typography.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/buttons.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/index.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/Зависимые проекты.txt",
+		"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3/SCSS/theme-yvesrocher/.sass-cache/f2a0624ec088e91d91e8ad9d3790815818c95cad/styles.scssc",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/CSS/bootstrap-extension.css",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/.sass-cache/d8c8ae958461920b7edc5b452a2ec7d35a6c0d55/styles.scssc",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/.sass-cache/cc3ec877e5a78b7ff325f6e348083d537c6e92d5/patterns.scssc",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/CSS/theme-1.css",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/features horizontal open.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/.sass-cache/f2a0624ec088e91d91e8ad9d3790815818c95cad/styles.scssc",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/CTA-banners.html",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/variables.scss",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/4/index.html",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/4/responsive.css",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/3/index.html",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/3/responsive.css",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/links-border.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/bootstrap extension/links-underline.scss",
+		"/Users/Sergey/Google Drive/Projects/Аня/Джйотиш/Сайт/www/jyotish/astrology.php",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/2/CSS/responsive.css",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/custom-patterns.scss",
+		"/Users/Sergey/Google Drive/Projects/Unilead/Мобильный лендинг/Вёрстка/2/index.html",
+		"/Users/Sergey/Google Drive/Projects/Galaxy Master PC/Site/Variant 2 (samsung)/Промо-темы/10 UHD TV + soundbar (World cup)/Промо-страница/page 2.html",
+		"/Users/Sergey/Google Drive/Projects/Олег Зябликов/Вёрстка/5/sendmail.php",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/theme-studio/compiler.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/theme-studio/typography.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/SASS/bootstrap extension/compiler.scss",
+		"/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap/www/sass/theme-studio/theme.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS/theme 1/compiler_theme.scss",
+		"/Users/Sergey/Google Drive/Programming/Шаблончик/www/features line.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			"/Users/Sergey/GitHub/Integral design",
+			"/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3",
+			"/Users/Sergey/Google Drive/Programming/Шаблончик/www/",
+			"/Users/Sergey/Google Drive/Programming/Шаблончик/www/SASS",
+			"/Users/Sergey/Google Drive/Programming/Шаблончик/www",
+			"/Users/Sergey/Google Drive/Programming/Шаблончик/www,/Users/Sergey/Google Drive/Projects/Навальный/Yves Rocher/Dev @ sergeypedan.ru/3,/Users/Sergey/Google Drive/Projects/Студия/Integral design/3 migrated to Bootstrap",
+			"/Users/Sergey/Google Drive/Programming/Шаблончик/www",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"background-image: radial-gradient(ellipse at center bottom, hsl(310, 45%, 20%) 0%, hsl(230, 20%, 15%) 100%)",
+			"background-color: hsl(220, 20%, 30%);",
+			"<div class=\"hidden-xs hidden-sm col-md-2 portfolio-preview\">",
+			"<h3 class=\"rule-below rule-thick\">",
+			"rule-below-thick",
+			"<p class=\"rule-below\"><b class=\"price\">",
+			"rule-below",
+			"</h3>\n							<hr class=\"hr-imgbg\">",
+			"Интернет-магазин",
+			"parameters.scss",
+			"Menlo",
+			"font",
+			"<link rel=\"stylesheet\"",
+			"padding",
+			"h3",
+			"<p",
+			"gentle-gradient",
+			"h3",
+			"Позови",
+			"<span class=\"glyphicon glyphicon-globe\"></span>",
+			"<a href=\"#\" class=\"btn btn",
+			"span class=\"icon",
+			"facebook",
+			"<div class=\"col-lg-5\">",
+			"gliphicon",
+			"glyphicon",
+			"<a href=\"#\">",
+			"<li><a href=\"#\">",
+			"\n					<div class=\"col-md-5\">",
+			"о&nbsp;нем",
+			"нем",
+			"<div class=\"col-md-6\">",
+			"&nbsp",
+			"и",
+			"тычет",
+			" - ",
+			" </p>",
+			"<input",
+			"ПРОИЗОШЕДШЕЙ ЗА ПЯТЬ ДНЕЙ ДО ЭТОГО",
+			"а",
+			"В",
+			"б",
+			"е",
+			"typograph",
+			"И",
+			"П",
+			"а",
+			"З",
+			"За",
+			"с",
+			"С",
+			"с",
+			"\" },",
+			"\n					to: \"",
+			"Имя и фамилия",
+			"</p>\n							<p>",
+			"li",
+			"defau",
+			"bgColor1",
+			"<div class=\"progress-bar progress-bar",
+			"<div class=\"progress-bar progress-bar-success",
+			"h4",
+			"<h4>",
+			"<a href=\"#\"><h4>",
+			"<h2 class=\"moreBottom\"",
+			"howToHelp",
+			"h4",
+			"h3",
+			"беспочвенными",
+			"  ",
+			"induction",
+			"retro",
+			"10",
+			".glyphicon { color: ",
+			"color-brand",
+			"<p><small class=\"text-muted\">15 марта • 158 комментариев</small></p>",
+			"container padded",
+			"isPanel",
+			"panel-method-4",
+			"padding / 2",
+			"panel-padding;",
+			"<section class=\"interlay\">",
+			"section.panel-method",
+			"section.panel-method-4",
+			"isPillow",
+			"panel-type-",
+			"margin: $section-padding;",
+			"lg",
+			"sidepadding",
+			"$container-width-lg: 1170px;",
+			"$container-width",
+			"pillow",
+			"section {\n		border-radius: 4px;\n		padding-bottom: 3.5em;\n	}\n	",
+			"pillow-block",
+			"section.p",
+			"img-rounded",
+			"-1.j",
+			"</h4>\n						<p></p>",
+			"<h4 class=\"media-heading\">",
+			"<h4 class=\"noTop\">",
+			"<div class=\"media\">",
+			"<h4 class=\"media-heading\">",
+			"<p><span class=\"glyphicon glyphicon-",
+			"glyphicon-ok",
+			"<span class=\"glyphicon glyphicon-ok\"></span>",
+			"<div class=\"col-xs-6\">",
+			"QRcode",
+			"h3",
+			"<div class=\"col-xs-2 cell\">",
+			"<title>Шаблончик</title>",
+			"exclude_patterns",
+			".col-sm",
+			".col-xs-",
+			";",
+			"blockquote",
+			"container noBottom",
+			"fixed",
+			"fixed-navbar",
+			" class=\"thin",
+			"class=\"thin\"",
+			"h2 class=\"thin\"",
+			"headerFixed",
+			"col-md-",
+			"md-6",
+			"<h5></h5>\n								<ul>",
+			"<li><a href=\"\">Ссылка на раздел</a></li>",
+			"<div class=\"col-sm-4\">",
+			"h4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rule-below rule-thick",
+			"variables.scss",
+			"bg-paper",
+			" ",
+			"<title></title>",
+			"bg-white",
+			"bg-fixed",
+			"bg-photo",
+			"bg-pattern",
+			"bg-fixed",
+			"bg-white",
+			"<script src=\"bower_components/bootstrap/dist/js/bootstrap.min.js\"></script><!-- <script src=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js\"></script> -->",
+			"fixed-header",
+			"horizForm-send-result",
+			" с&nbsp;",
+			" в&nbsp;",
+			" на&nbsp;",
+			"induction",
+			" padded ",
+			"href=\"http://",
+			"slider-small",
+			" И&nbsp;",
+			" с&nbsp;",
+			" за&nbsp;",
+			" в&nbsp;",
+			"<link href=\"bower_components/bootstrap/CSS/theme.css\" rel=\"stylesheet\">",
+			"</p>\n<p>",
+			"question_price",
+			"class=\"greenButton\"",
+			"#coast {",
+			"#coast ",
+			" по&nbsp;",
+			"</div>\n",
+			"<hr/>",
+			" от&nbsp;",
+			" на&nbsp;",
+			" В&nbsp;",
+			" из&nbsp;",
+			" не&nbsp;",
+			" к&nbsp;",
+			" о&nbsp;",
+			" с&nbsp;",
+			" в&nbsp;",
+			" и&nbsp;",
+			" т.&nbsp;к.&nbsp;",
+			" И,&nbsp;",
+			" у&nbsp;",
+			"<a href=\"https://vk.com/astrozakaz\">vk.com/astrozakaz</a>",
+			"6px",
+			" по&nbsp;",
+			" и&nbsp;",
+			" из&nbsp;",
+			" а&nbsp;",
+			" с&nbsp;",
+			" в&nbsp;",
+			" к&nbsp;",
+			" ",
+			" по&nbsp;",
+			" от&nbsp;",
+			" к&nbsp;",
+			" — ",
+			" (в&nbsp;",
+			" г.&nbsp;",
+			" на&nbsp;",
+			" не&nbsp;",
+			" о&nbsp;",
+			" из&nbsp;",
+			" а&nbsp;",
+			" с&nbsp;",
+			" и&nbsp;",
+			" в&nbsp;",
+			"	",
+			"article_photos/article-1",
+			"offer_previews/offer-1.png",
+			"social/",
+			"images",
+			"unilead/images/icons/",
+			"images/icon/",
+			"src=\"http://pedantic-design.ru/unilead/images",
+			" ",
+			"",
+			" ",
+			"&nbsp;",
+			" из&nbsp;",
+			" но&nbsp;и&nbsp;",
+			" не&nbsp;",
+			" и&nbsp;",
+			" В&nbsp;",
+			" в&nbsp;",
+			" и&nbsp;",
+			" с&nbsp;",
+			" и&nbsp;",
+			"<a href=\"\"><img style=\"border: 0;\"",
+			"src=\"http://pedantic-design.ru/unilead/images",
+			"",
+			"product_2",
+			"product_1",
+			"product_10",
+			"product_2",
+			"product_1",
+			"product_10",
+			"product_0",
+			"product_2",
+			"product_4",
+			"product_5",
+			"product_3",
+			"</li>\n						<li>",
+			"",
+			"danger",
+			"<?php include 'sections/fb-script.php' ?>",
+			" и&nbsp;",
+			" не&nbsp;",
+			" у&nbsp;",
+			" от&nbsp;",
+			"<input type=\"hidden\" name=\"productName\" value=\"Консультация по одному вопросу\">",
+			" — ",
+			"src=\"http://pedantic-design.ru/masterpc/images",
+			" от&nbsp;",
+			" на&nbsp;",
+			" и&nbsp;",
+			" в&nbsp;",
+			" но&nbsp;",
+			"с&nbsp;момента рождения.»</p>",
+			">«Ведический гороскоп «джйотиш»",
+			">«Ведический гороскоп «джйотиш» — <b>это древняя ведическая наука и&nbsp;технология предсказаний</b>, которая объясняет, как планеты и&nbsp;законы природы влияют на&nbsp;человека, начиная с&nbsp;момента рождения.»<",
+			"180x150.gif",
+			" к&nbsp;",
+			" на&nbsp;"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Bootstrap extension (GitHub).sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/Projects/Аня/Джйотиш/Сайт/www/marafon/SergeyPedan @ GitHub.sublime-project"
+			],
+			[
+				"mi",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Mixins.sublime-project"
+			],
+			[
+				"mixi",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Mixins.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

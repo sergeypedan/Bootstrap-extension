@@ -1,4 +1,4 @@
-@import 'variables.scss';
+@import 'variables BXt.scss';
 
 p {
 	margin-bottom: 1em;
@@ -86,31 +86,6 @@ small.allcaps,
 
 
 
-
-
-// .invert {
-// 	color: rgba(255, 255, 255, 0.8);;
-
-// 	b, .lead { color: white; }
-
-// 	a { color: $color-link-invert; }
-// 	a:hover { color: lighten( $color-link-invert, 5% ); }
-
-// 	h1, h2, h3, h4, h5,
-// 	.h1, .h2, .h3, .h4, .h5 { color: white !important; }
-// 	h4, h5, .h4, .h5 { -webkit-font-smoothing: auto; }
-	
-// 	input,
-// 	textarea { color: $color-text; }
-
-// 	fieldset { background: rgba(255,255,255,0.06); }
-
-// 	hr { border-top-color: rgba(128, 128, 128, 0.26); }
-
-// 	.rule-above,
-// 	.rule-below { border-color: rgba(255,255,255,0.2); }
-
-// }
 
 .text-black { color: $color-text-dark; }
 

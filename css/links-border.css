@@ -1,0 +1,17 @@
+/*-------------- Colors -------------*/
+a > img {
+  border: none; }
+
+a {
+  border-bottom: solid 1px #5f97c8; }
+  a:hover {
+    text-decoration: none;
+    color: #316490;
+    border-bottom-color: #316490; }
+
+.AJAXlink {
+  border-bottom: dotted; }
+
+.navbar a,
+.navbar a:hover {
+  border-bottom: 0; }

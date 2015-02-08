@@ -1,0 +1,18 @@
+Стандартные фоны типа
+.bg-paper,
+.bg-photo
+перенёс в mixins
+
+@import 'mixins/block backgrounds.scss';
+
+
+
+
+Знак рубля перенёс в mixins
+
+@import 'mixins/rouble.scss';
+
+.rouble {
+	@extend '%rouble-underline';
+	@extend '%rouble-fontface';
+}

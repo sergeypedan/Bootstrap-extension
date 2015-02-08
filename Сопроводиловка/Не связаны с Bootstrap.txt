@@ -1,0 +1,33 @@
+grids
+helpers
+images
+links-border
+links-no-underline
+links-underline
+typography
+
+
+
+
+
+связаны, но можно легко отвязать
+
+button-sizing				// тут отсутствуют всякие displa-block из Б
+mixins/button-sizing		// тут отсутствуют всякие displa-block из Б
+panel old					// предполагает конфигурацию section / container / row
+panel						// предполагает конфигурацию section / container / row
+mixins/panel block skins
+
+
+
+
+
+
+прочно повязаны
+
+common-GUI
+item grid
+menu-smartphone
+navbar styles
+mixins/navbar prototype
+section				// просто дописывает отступы к Б

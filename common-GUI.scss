@@ -1,7 +1,17 @@
+/* common-GUI (be) start */
 @import 'variables BXt.scss';
-@import 'navbar-prototype.scss';
 
 
+
+
+.scrollable { overflow: scroll; }
+
+
+
+blockquote {
+	padding-top: 0;
+	padding-bottom: 0;
+}
 
 
 
@@ -40,58 +50,19 @@
 }
 
 
-.form-control { border-radius: 2px; }
-
-.input-lg,
-.form-horizontal .form-group-lg .form-control {
-	border-radius: 3px;
-}
 
 
 
-.text-center > img {
-	margin-left: auto;
-	margin-right: auto;
-}
-
-
-.inline-btn {
-	margin-left: 6px;
-}
-
-.form-help-1 {
-	padding-top: 100px;
-}
-
-.form-help-2 {
-	padding-top: 50px;
-}
-
-legend {
-	// padding-top: 50px;
-	// margin-bottom: 30px;
-}
-
-fieldset {
-	background: #FCFBE5;
-	padding: 2em;
-	border-radius: 6px;
-}
-
-hr {
-	border-bottom-color: $color-hr;
-	border-top-color: $color-hr;
-}
 
 
 
-.panel-default {
-	border-color: hsl(0, 0%, 96%);
 
-	.panel-footer {
-		border-top: none;
-	}
-}
+
 .thumbnail {
 	border-color: hsl(0, 0%, 96%);
 }
+
+
+
+
+/* common-GUI (be) end */

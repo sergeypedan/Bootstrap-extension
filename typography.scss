@@ -1,26 +1,30 @@
+/* typography (be) start */
+
+/* - import variables (be) */
 @import 'variables BXt.scss';
 
 p {
 	margin-bottom: 1em;
-	max-width: 53em;
+	max-width: 42em;
 }
-	.text-center p {
-		margin-left: auto;
-		margin-right: auto;
+	.lead { max-width: 42em; }
+	
+	.readable {
+		font-size: 1.2em;
+		line-height: 1.45em;
 	}
 
-	.lead {
-		max-width: 42em;
-	}
+	.half { margin-bottom: .5em; }
+
+	
+
+h2, .h2 {
+	margin-bottom: 1em;
+}
 
 h3, .h3 {
 	font-size: 20px;
 	max-width: 40em;
-	
-	.text-center & {
-		margin-right: auto;
-		margin-left: auto;
-	}
 }
 
 h4 {
@@ -36,16 +40,16 @@ h5 {
 }
 
 
-
+// это выкинуть, когда закончатся проекты — т. к. оно перенесено в design mixins / ul-ol
 ul {
-	padding-left: 1.1em;
+	padding-left: 1.35em;
 }
 ol {
 	padding-left: 1.4em;
 }
 
 .list-multiline li {
-	margin-bottom: 10px;
+	margin-bottom: .5em;
 }
 
 .list-midbullet {
@@ -61,6 +65,8 @@ ol {
 		color: $color-muted;
 	}
 }
+// выкинуть
+
 
 small, .small { line-height: 1.55em; }
 
@@ -79,11 +85,6 @@ small, .small { line-height: 1.55em; }
 
 small.allcaps,
 .small.allcaps { font-size: 0.7em }
-
-.rouble {
-	color: $color-muted;
-}
-
 
 
 
@@ -104,10 +105,12 @@ small.allcaps,
 	margin-bottom: 1em;
 }
 
-	// h2.rule-below {  }
 
 
-
+hr {
+	border-bottom-color: $color-hr;
+	border-top-color: $color-hr;
+}
 
 .hr-white {
 	border-top-color: white;
@@ -115,4 +118,11 @@ small.allcaps,
 }
 
 
+code {
+	color: inherit;
+	background-color: hsl(39, 32%, 95%);
+	font-size: .85em;
+}
 
+
+/* typography (be) end */

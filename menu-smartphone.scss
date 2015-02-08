@@ -1,4 +1,8 @@
-// Меню
+/* menu smartphone (be) start */
+
+/* import responsive scopes */
+@import 'responsive scopes';
+
 
 @media only screen and (max-width : 768px) { // col-xs-, iPhone portrait
 
@@ -25,3 +29,5 @@
 		padding-bottom: 15px;
 	}
 }
+
+/* menu smartphone (be) end */
